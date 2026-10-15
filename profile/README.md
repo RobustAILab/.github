@@ -1,4 +1,4 @@
-# Robust AI Lab (RobustAILab)
+# Robust AI Lab 
 
 ### Robust, Adaptive, and Trustworthy Artificial Intelligence
 
