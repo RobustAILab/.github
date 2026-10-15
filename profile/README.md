@@ -35,54 +35,9 @@ Old Dominion University
 ### PhD Students
 
 - **Ziyu Wang**
-- **Yao Wang**
 - **Yiming Du**
+- **Yao Wang**
 - **Jian Li** (Co-advised)
-
-## 📚 Selected Publications & Open-Source Projects
-
-### 2026
-
-**Deep Incomplete Multi-View Clustering via Hierarchical Imputation and Alignment**
-
-Yiming Du, Ziyu Wang, Jian Li, Rui Ning, and Lusi Li.  
-*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026)*, 40(25), 20941–20949.
-
-🔗 [Code](https://github.com/YMBest/DIMVC-HIA)
-
-### 2025
-
-**[Energy-Based Deep Incomplete Multi-View Clustering](https://doi.org/10.1145/3746027.3755365)**
-
-Ziyu Wang, Yiming Du, Rui Ning, and Lusi Li.  
-*Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM 2025)*, pp. 1686–1694.
-
-🔗 [Paper](https://doi.org/10.1145/3746027.3755365)
-
----
-
-**Deep Incomplete Multi-View Clustering via Multi-Level Imputation and Contrastive Alignment (MICA)**
-
-Ziyu Wang, Yiming Du, Yao Wang, Rui Ning, and Lusi Li.  
-*Neural Networks*, vol. 181, Article 106851, 2025.
-
----
-
-**[ECSC: Energy-Calibrated Semantic Communication](https://ieeexplore.ieee.org/document/11310481)**
-
-Ziyu Wang, Yiming Du, Rui Ning, Daniel Takabi, and Lusi Li.  
-*IEEE Military Communications Conference (MILCOM 2025)*, pp. 1359–1364.
-
-🔗 [Paper](https://ieeexplore.ieee.org/document/11310481) | [Code](https://github.com/sunway677/ECSC)
-
-### 2024
-
-**[Incomplete Multi-View Clustering via Structure Exploration and Missing-view Inference (SEMI)](https://www.sciencedirect.com/science/article/abs/pii/S1566253523004396)**
-
-Ziyu Wang, Lusi Li, Xin Ning, Wenkai Tan, Yongxin Liu, and Houbing Song.  
-*Information Fusion*, 2024.
-
-🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523004396)
 
 ## 💻 Open-Source Research
 
