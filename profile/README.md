@@ -27,7 +27,7 @@ Our research interests include:
 
 - **Multi-View and Multi-Modal Learning:** Representation learning, alignment, and fusion across views and modalities.
 - **Transferable and Adaptive Learning:** Domain adaptation, few-shot/zero-shot learning, and adaptive knowledge transfer.
-- **Trustworthy and Secure AI:** Adversarial robustness, AI security, and resilient learning systems.
+- **Trustworthy AI and AI Security:** Adversarial robustness, multimodal AI security, and backdoor attacks.
 - **Wireless and Semantic Communications:** Dynamic spectrum access, cross-modal semantic communications, and adversarial and backdoor attacks on AI-native semantic communication systems.
 
 ## 👥 Lab Members
