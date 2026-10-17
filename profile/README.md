@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="lab-banner.png"
+       alt="RobustAI Lab Banner"
+       width="100%">
+</p>
+
 # Robust AI Lab 
 
 ### Robust, Adaptive, and Trustworthy Artificial Intelligence
