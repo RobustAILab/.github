@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lab-banner.png"
+  <img src="headerimage_ODU.jpg"
        alt="RobustAI Lab Banner"
        width="100%">
 </p>
